@@ -6,6 +6,7 @@ source "https://rubygems.org"
 #
 #     bundle exec jekyll serve
 #
+#bundle update jekyll-sass-converter
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 gem "jekyll", "~> 4.1"
@@ -45,7 +46,7 @@ group :jekyll_plugins do
   # Non-Github Pages plugins:
   gem "jekyll-last-modified-at"
   gem "jekyll-compose"
-  gem "jekyll-sass-converter", "~> 2.0"
+  gem "jekyll-sass-converter", "~> 3.0"
 end
 
 gem 'wdm' if Gem.win_platform?
