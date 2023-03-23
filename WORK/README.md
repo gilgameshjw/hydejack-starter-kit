@@ -1,4 +1,4 @@
-# Work & Interests ooooo
+# Work & Interests
 
 ## Software as "Union of conversational Agents"
 
