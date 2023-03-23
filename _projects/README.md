@@ -1,8 +1,8 @@
-# Work & Interests
+# Work & Interests 
 
 ## Software as "Union of conversational Agents"
 
-Since several years, I am working on the idea of automation using 
+Since several years, I have been working on the idea of automation using 
 conversational layers around software components. 
 
 Aside of the fun and elegant design, there are the need to allow 
@@ -18,7 +18,7 @@ My work is the design of:
 
 I am interested in applications of Fourier Neural Networks, Graphical Neural Networks, Neuro Inspired Architectures to language and other problems. Some of this is featured in  the /Projects section of this website.
 
-I am doing own experiments as well as keeping updated with latest developments.
+Goal is to run own experiments as well as keeping updated with latest developments.
 
 
 ## High Dimensional Computing
