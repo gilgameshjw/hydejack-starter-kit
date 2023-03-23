@@ -13,6 +13,8 @@ gem "jekyll", "~> 4.1"
 
 gem "jekyll-theme-hydejack", "~> 9.1"
 
+gem "jekyll-sass-converter", "~> 2.0"
+
 # IMPORTANT: The followign gem is used to compile math formulas to 
 # KaTeX during site building.
 #
@@ -42,11 +44,11 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jekyll-titles-from-headings"
   gem "jekyll-include-cache"
+  # gem "jekyll-sass-converter", "~> 2.0"
 
   # Non-Github Pages plugins:
   gem "jekyll-last-modified-at"
   gem "jekyll-compose"
-  gem "jekyll-sass-converter", "~> 3.0"
 end
 
 gem 'wdm' if Gem.win_platform?
