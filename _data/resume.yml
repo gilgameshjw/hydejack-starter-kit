@@ -121,6 +121,10 @@ education:
 #    awarder: "Techcrunch"
 #    summary: "There is no spoon."
 publications:
+
+  - name: "Jua Vilhelm: A novel end-to-end AI system for global weather prediction" 
+    pusblisher: "American Meteorological Society"
+    releaseDate: "under review"
   
   - name: "High Dimensional Computing for Public Safety"
     publisher: "heroX Public Safety Challenge"
