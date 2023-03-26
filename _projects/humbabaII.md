@@ -5,7 +5,7 @@ caption: Software as "Union of conversational agents"
 description: >
  Allow anybody with little experience in software engineering to design software and to design smart system to allow for an interesting and smart interaction...
 
-date: 07 Mar 2023
+date: 01 Mar 2023
 image: 
   path: /assets/img/projects/stresstestgraph.jpg
   srcset: 

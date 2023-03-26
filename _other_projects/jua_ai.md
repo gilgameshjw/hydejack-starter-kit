@@ -1,7 +1,7 @@
 ---
 layout:      project
 title:       Weather Predictions with JUA
-date:        1 Mar 2023
+date:        1 Jan 2023
 image:
   path:       /assets/img/past_projects/jua@0,25x.jpg
   srcset:

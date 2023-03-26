@@ -5,7 +5,7 @@ caption: FNO better scaling can possibly used to create transformer architecture
 description: >
  FNO better scaling can possibly used to create transformer architectures that scale better than current technology.
 
-date: 07 Mar 2023
+date: 15 Mar 2023
 image: 
   path: /assets/img/projects/fno.jpg
   srcset: 
@@ -25,3 +25,6 @@ sitemap: false
 
 I am working on porting a technology developed for fluid dynamics and image processing 
 into the text processing domain, as FNO scaling properties could be a game changer!
+
+After having proven that these architecture can learn text, I am working on architecture improvements and benchmarking.
+
