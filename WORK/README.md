@@ -1,9 +1,29 @@
 # Work & Interests
 
-## Software as "Union of conversational Agents"
+During my career, I have been interested and worked extensively on the topics below, on which I consider myself an expert.
+Working on these topics, unique software solutions have been created or often, latest existing benchmarks have been reproduced and beaten.
 
-Since several years, I have been working on the idea of automation using 
-conversational layers around software components. 
+Among other highlights of my career, the work on the topics below is illustrated under the **Current and Past Work** section of the website.
+
+## Deep Learning for Weather Predictions
+
+With JUA, we have adapted latet existing research to productionise a novel end-to-end AI system for global weather prediction. 
+
+We have worked with Fourier Neural Operators (FNO), Graph Neural Networks and 
+Generative Adversarial Networks (GAN) to currently operate the most accurate precipitation weather model.
+
+I am currently working on porting the FNO architecture to text processing and enhancing it. 
+
+
+## Conversational Agents
+
+Since 2016, I have worked on conversational agents working in R&D for Constellation AI.
+
+IVA was developed with Markus Thora and Denis Okyere and was an end to end webapp integrating 
+speech to a brain using HD computing to model conversational sequences. 
+
+With Humbaba I and II and my some of my work with Interscript, 
+I am building on the idea of software designed as "Union of conversational Agents".
 
 Aside of the fun and elegant design, there are the need to allow 
 people with little experience in software engineering to design software
@@ -14,22 +34,23 @@ My work is the design of:
 * graphical design of software (with simple technologies like lucidchart, etc...)
 * software design automation combining the above ideas with advanced language models
 
-## Advanced Neural Networks Architectures
 
-I am interested in applications of Fourier Neural Networks, Graphical Neural Networks, Neuro Inspired Architectures to language and other problems. Some of this is featured in  the /Projects section of this website.
+## High Dimensional computing
 
-Goal is to run own experiments as well as keeping updated with latest developments.
+Learning and computations can be accelerated using sparse binary vectors. 
+I have worked on various technologies exploiting the benefits of the HD approach:
+
+* combine semantic vectors with symbolic algebra 
+* simpler operations mean compression and more efficient compute
+* graphs and rules encoding/modelling
 
 
-## High Dimensional Computing
 
-Learning and computations can be accelerated using sparse binary vectors and also, in a nutshell:
-- We can combine semantic vectors with symbolic algebra 
-- Simpler operations mean compression and more efficient compute
+## Collaborative Systems
 
-#### Past Work
-- **fast fuzzy search** within large datasets was developed and proven on behavioural, medical and GPS datasets
-- **AI systems learning via one shot learning**. Unique feature is the ability to perform super fast unsupervised learning of any, multidimensional sequences from multidimensional datasets 
-- **Efficient Learning** in term of scores and energy.  
-Here we are interested in binary deep learning architectures, preprocessings via sparse vectors and computer architectures optimised for sparse binary computations.
+TaxiQ is an app developed for giving London's black cab drivers a real time overview over the taxi ranks.
+I have helped faxi (now kinto join) with recommendations, carpooling modelling and community evaluations via an app. Highlights are IMO:
 
+* optimisation and behavioural simulations
+* efficient GPS modelling and retrieval
+* real time city modelling in c++
