@@ -48,6 +48,9 @@ author:
 
 # Add links to the sidebar.
 menu:
+
+  - title:             About Me #Résumé
+    url:               /ABOUTME/
   - title:             CV #Résumé
     url:               /resume/
   - title:             My Work

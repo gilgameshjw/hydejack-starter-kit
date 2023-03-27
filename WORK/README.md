@@ -5,7 +5,9 @@ Working on these topics, unique software solutions have been created or often, l
 
 Among other highlights of my career, the work on the topics below is illustrated under the **Current and Past Work** section of the website.
 
-## Deep Learning for Weather Predictions
+## Neuro Inspired Computing
+
+#### Deep Learning for Weather Predictions
 
 With JUA, we have adapted latet existing research to productionise a novel end-to-end AI system for global weather prediction. 
 
@@ -15,7 +17,19 @@ Generative Adversarial Networks (GAN) to currently operate the most accurate pre
 I am currently working on porting the FNO architecture to text processing and enhancing it. 
 
 
-## Conversational Agents
+## High Dimensional computing
+
+Learning and computations can be accelerated using sparse binary vectors. 
+I have worked on various technologies exploiting the benefits of the HD approach:
+
+* combine semantic vectors with symbolic algebra 
+* simpler operations mean compression and more efficient compute
+* graphs and rules encoding/modelling
+
+
+## Systems
+
+#### Conversational Agents
 
 Since 2016, I have worked on conversational agents working in R&D for Constellation AI.
 
@@ -35,18 +49,7 @@ My work is the design of:
 * software design automation combining the above ideas with advanced language models
 
 
-## High Dimensional computing
-
-Learning and computations can be accelerated using sparse binary vectors. 
-I have worked on various technologies exploiting the benefits of the HD approach:
-
-* combine semantic vectors with symbolic algebra 
-* simpler operations mean compression and more efficient compute
-* graphs and rules encoding/modelling
-
-
-
-## Collaborative Systems
+#### Collaborative Systems
 
 TaxiQ is an app developed for giving London's black cab drivers a real time overview over the taxi ranks.
 I have helped faxi (now kinto join) with recommendations, carpooling modelling and community evaluations via an app. Highlights are IMO:
@@ -54,3 +57,8 @@ I have helped faxi (now kinto join) with recommendations, carpooling modelling a
 * optimisation and behavioural simulations
 * efficient GPS modelling and retrieval
 * real time city modelling in c++
+
+
+#### Fuzzy retrieval
+
+High dimensional computing and encoding has been used to model and retrieve matching GPS trajectories, text snippet and medical data.
