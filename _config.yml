@@ -28,7 +28,7 @@ description:           >
   Presentation of Jair Wuilloud, his work and services.
 
 # A shorter description for the sidebar.
-tagline:               Advanced and efficient AI
+tagline:  Lead AI Engineer -- Phd in Physics #Advanced and efficient AI
 
 # A list of keywords for your blog
 keywords:              []
@@ -55,8 +55,6 @@ menu:
     url:               /resume/
   - title:             My Work
     url:               /WORK/
-      #- title:             Technologies
-      #url:               /projects/
   - title:             Current and Past Projects
     url:               /other-projects/
 

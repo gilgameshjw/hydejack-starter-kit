@@ -35,9 +35,8 @@ work:
       * Instrumental in the development of a weather model at currently unseen accuracy and resolution with JUA
 
       * Brough AI within the space of transliteration, porting a graphical editor and char and word level transformers into production
-      #Innovative workflow for specialists combining deep learning with a rules editor for transliteration, with interscript
 
-      * Creation of own original technologies like Humbaba, IVA, neurotrophic Labs, ...
+      * Creation of own original technologies like Humbaba, IVA, neurotrophic Labs
 
       * Co-creation of several companies as TaxiQ, neurotrophic Labs, Plex AI
 
@@ -54,12 +53,27 @@ work:
         #bots, GPS, collaborative and recommender systems, as well as with huge datasets and 
         #a long list of standard technologies and libraries (spark, aws, sklearn, pytorch, ...)."
 
+
+  - company: "JUA AI"
+    position: "Lead AI Engineer"
+    #website: "https://piedpiper.com"
+    startDate: "May 2022"
+    endDate: "Mar 2023"
+    summary: "I was invited by JUA.AI to build advanced weather models using deep learning. 
+    Starting from a blue sky project, within 6 months, I could identify, test, train and integrate 
+    models and data architecture components that became the core of currently the best 
+    weather model predictions on the market."    
+
   - company: "Constellation AI"
     position: "Senior Data Scientist"
     #website: "https://piedpiper.com"
-    startDate: "Sep 2016"
+    startDate: "Mar 2018"
     endDate: "Feb 2019"
-    summary: "R&D for NLP and chatbot" 
+    summary: "I have join the company to build new language models exploiting advantages of 
+    sparse representations.
+    After 3 months, I developed a working model to encode and compress text that became the semantic engine after 6 months.
+    This model was extended and tested on several business cases. 
+    The model proved to exceed some existing benchmarks, which we have documented in a paper." 
 
   - company: "Thomson Reuters"
     position: "Data Scientist"
