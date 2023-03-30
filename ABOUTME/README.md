@@ -1,17 +1,17 @@
 # About Me
 
-Throughout my life, I have been interested in nature, thinking and languages.
-The way I need to approach things is through practical and ambitious realisations in which I like to collaborate. 
+Throughout my life, I have been put in motion by intellectual interests and setting myself big challenges.
 
-So from being a postdoc in numerical physics, a banker for a short while and after the collaboration with multiple startups and companies, I have developed several innovative systems and models and became a AI researcher and engineer. 
+So I became a researcher in Particle Physics, where I could contribute to expand our knowledge of Nature. My journey is now continuing in the "real world", where I am using my skills and brain to solve interesting problems.
+
+Along this new journey that started 10 years ago, I have been mainly interested in Neuro-inspired architectures like HD computing and Deep Learning and their applications as well as in the building of complex solutions like: Conversational Agents, Collaborative Systems, Retrieval Engines, Automatised Software Generation and Generative Models.
 
 
-This journey gave birth to 
-* 12 co-publications in numerical particle physics, working on my own and with medium size collaborations 
-* early collaborations with 5 among the best financed startups (>5 millions $, first data engineer in 3 projects)
-* the co-foundation of 3 companies (TaxiQ, Plex AI, Neurotrophic Labs) where with a tiny budget, I have led a team of up to 8 people
-* several innovative technologies (humbaba, rababa, diacritization,
-transliteration learner from graph, ...) 
-* over 10 documents in blogs, white papers, paper format (latex) featuring among others a recent publication (2023) of the most accurate precipitation weather model
+### Highlights: 
 
+* 12 co-publications in numerical particle physics, collaborating with medium size teams
+* 3 self founded Startups (TaxiQ, Plex AI,  Neurotrophic Labs) and as many collaborations
+* Early collaborations with some of the most ambitious and best financed european startups (Dataffirm, Constellation AI, Media Players, Jua AI) 
+* Over 10 documents in publication format (latex) featuring among others a recent publication (2023) of the currently most accurate precipitation weather model
+* the building of several innovative technologies (TaxiQ, HD encoder for SDR's, Neurotrophic Labs patient modelling and search, Humbaba, transliteration learner from graph, ...) 
 

@@ -64,10 +64,56 @@ work:
     models and data architecture components that became the core of currently the best 
     weather model predictions on the market."    
 
+  - company: "Interscript" 
+    position: "Contractor"
+    #website: "https://piedpiper.com"
+    startDate: "Sep 2021"
+    endDate: "Jun 2022"
+    summary: "Interscript needed to use deep learning for diacritization and transliteration.
+    Diacritization models were trained in arabic and hebrew, resp. reproducing and beating existing benchmarks.
+    A new approach to transliteration allows now language experts to design the complex business rules 
+    necessary to generate the transliteration rules being put into production via
+    data generation and the training of transformer architectures. 
+    The approach was presented in a small specialists conference."    
+
+
+
+  - company: "Neurotrophic Labs" 
+    position: "Co-Founder"
+    #website: "https://piedpiper.com"
+    startDate: "Jun 2019"
+    endDate: "Aug 2021"
+    summary: "With a Californian MD, 
+    we have developed an app allowing practitioner to easily model patient 
+    states and diseases and retrieve statistical evidences in real time via fuzzy 
+    search throughout the US healthcare dataset. 
+    The app focus on speed allows to run scenarii and test hypotheses."    
+
+
+  - company: "Plex AI" 
+    position: "Co-Founder"
+    #website: "https://piedpiper.com"
+    startDate: "April 2019"
+    endDate: "Aug 2021"
+    summary: "Markus and Dennis had a vision for the future: one will soon interact with 
+    websites via language. My main contribution was the building of an IOS app, 
+    the agent and its brains
+    and to run successful demos to potential customers."    
+
+
+  - company: "Faxi (now kinto join)" 
+    position: "Senior Data Scientist"
+    #website: "https://piedpiper.com"
+    startDate: "May 2019"
+    endDate: "Mar 2020"
+    summary: "I have helped faxi with new GPS processing and carpooling recommendation algorithms.
+    Thanks to an app that I have built, communities can now easily visualise the carpoolings and their benefits for their community in term of $ and CO2 emissions."    
+
+
   - company: "Constellation AI"
     position: "Senior Data Scientist"
     #website: "https://piedpiper.com"
-    startDate: "Mar 2018"
+    startDate: "Feb 2018"
     endDate: "Feb 2019"
     summary: "I have join the company to build new language models exploiting advantages of 
     sparse representations.
@@ -75,26 +121,31 @@ work:
     This model was extended and tested on several business cases. 
     The model proved to exceed some existing benchmarks, which we have documented in a paper." 
 
-  - company: "Thomson Reuters"
-    position: "Data Scientist"
+  - company: "TaxiQ" 
+    position: "Founder"
     #website: "https://piedpiper.com"
-    startDate: "Aug 2014"
-    endDate: "Jan 2015"
-    summary: "Recommender systems and NLP" 
+    startDate: "Aug 2015"
+    endDate: "Jan 2018"
+    summary: "TaxiQ was a collaborative system helping black cab drivers to navigate within the 
+    city by solving the problem of evaluating the latest waiting times on the taxi ranks. 
+    With a small budget, I have acted as a CEO in interim, putting a team of up to 8 people to build a MVP (web apps). 
+    My work included R&D, pitching, business plans, ..."
 
   - company: "Deutsche Bank"
-    position: "Analyst"
+    position: "Model Validation"
     #website: "https://piedpiper.com"
     startDate: "Feb 2012"
     endDate: "May 2014"
-    summary: "Financial models analysis and validation library"  
+    summary: "Financial models validation and implementations on the C++ pricing libraries."  
 
   - company: "Institute for Theoretical Physics"
     position: "Postdoctoral Researcher"
     #website: "https://piedpiper.com"
     startDate: "Nov 2009"
     endDate: "Dec 2011"
-    summary: "QCD and Supersymmetry simulated on the lattice"  
+    summary: "I was working on QCD and Supersymmetry simulations. Simulations allow to 
+    run virtual experiments and perform approximations necessary to do predictions and test the standard model.
+    I have specialised in some technical aspects of DIrac's operator determinant evaluation."  
       #highlights:
       #- "Built an algorithm for artist to detect if their music was violating copy right infringement laws"
       #- "Successfully won Techcrunch Disrupt"
