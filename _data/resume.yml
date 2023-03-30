@@ -28,22 +28,9 @@ work:
     startDate: "2013-12-01"
     endDate: ""
     summary:  
-      Consulting in data science for more than 20 entities, 
+      Consulting in data science for more than 30 entities, 
       including well established companies and well founded startups. 
-      Some of the work is described in Portfolio
-
-      * Instrumental in the development of a weather model at currently unseen accuracy and resolution with JUA
-
-      * Brough AI within the space of transliteration, porting a graphical editor and char and word level transformers into production
-
-      * Creation of own original technologies like Humbaba, IVA, neurotrophic Labs
-
-      * Co-creation of several companies as TaxiQ, neurotrophic Labs, Plex AI
-
-      * Collaboration with early stages startups as Dataffirm, Mediaplayers, Faxi, Constellation AI, Guesser, JUA AI, ...
-
-      * Contracting with small and large entities as Interscript, Conde Nast, Toyota, Just Eat, ...
-      
+      Some of the work is described below or in **Projects**.
 
         #* While main focus on the application and development of brain inspired technologies, 
         #we have a solid expertise in machine / deep / reinforcement learning, 
@@ -99,6 +86,14 @@ work:
     websites via language. My main contribution was the building of an IOS app, 
     the agent and its brains
     and to run successful demos to potential customers."    
+
+  - company: "MediaPlayers" 
+    position: "Lead Data Scientist"
+    #website: "https://piedpiper.com"
+    startDate: "Feb 2020"
+    endDate: "Dec 2020"
+    summary: "Mediaplayers needed advices with data science and their data strategy.
+    I have then built their data pipeline, processing .5 billion of behavioural data within 3 hours daily."    
 
 
   - company: "Faxi (now kinto join)" 
