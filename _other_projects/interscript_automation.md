@@ -3,19 +3,22 @@ layout:      project
 title:       Automatised Transliteration for Interscript
 date:        1 Juni 2022
 image:
-  path:       /assets/img/past_projects/persiancaligraphy@0,25x.jpg
+  path:       /assets/img/past_projects/interscript@0,25x.jpg
+  #/assets/img/past_projects/interscript@0,25x.jpg
   srcset:
-    1920w:   /assets/img/past_projects/persiancaligraphy.jpeg
-    960w:    /assets/img/past_projects/persiancaligraphy@0,5x.jpg
-    480w:    /assets/img/past_projects/persiancaligraphy@0,25x.jpg
+    1920w:   /assets/img/past_projects/interscript.jpg
+    960w:    /assets/img/past_projects/interscript@0,5x.jpg
+    480w:    /assets/img/past_projects/interscript@0,25x.jpg
 caption:     Graph based rule base editor and code for transliteration. 
 description: >
-  Several Problems 
+  Transliteration made with generative models and by integrating language specialists workflow by allowing them to design complex rules.
 links:
-  - title:   Presentation #Community Report
-    url:     https://drive.google.com/file/d/1BWWtoDk1NdiUYRz1e8u3qKBy3sjOx9l1/view?usp=sharing
-  - title:   Prototype
-    url:     http://neurotrophic-labs-live-system.herokuapp.com
+  - title:   Blog
+    url:     https://www.interscript.org/blog/2022-04-04-transliteration-learned-from-transformers-and-graphs
+  - title:   Paper
+    url:     https://github.com/interscript/transliteration-learner-from-graphs/blob/main/docs/article.pdf
+  - title:   Code
+    url:     https://github.com/interscript/transliteration-learner-from-graphs
 featured:    false
 ---
 

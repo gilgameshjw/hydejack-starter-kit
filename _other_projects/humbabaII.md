@@ -3,7 +3,7 @@ layout: project
 title: Humbaba II
 caption: Software as "Union of conversational agents"
 description: >
- Allow anybody with little experience in software engineering to design software and to design smart system to allow for an interesting and smart interaction...
+ Vision: 1) Anybody with little experience in software engineering should be able to design software. 2) Smart software should be built as union of conversational agents...
 
 date: 01 Mar 2023
 image: 
@@ -23,8 +23,16 @@ theme_color: '#193747'
 sitemap: false
 ---
 
+# Humbaba
 
-**Humbaba II** is leveraging several techniques and technology to design software as 
+#### Vision
+
+1. Anybody should be able to design software by drawing graphs of components described in natural language.
+2. Smart software should be built as union of conversational agents.
+
+#### Technology
+
+**Humbaba II** is leveraging several techniques and technologies to design software as 
 a union of conversational agent. 
 
 Advanced language models can be used to create conversational interfaces around sotware components as well as to design automatically software components (writing codes, tests and automatically debugging the whole solution using it).

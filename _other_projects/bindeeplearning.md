@@ -1,10 +1,10 @@
 ---
 layout: project
 title:  HD Computing / Machine Learning
-caption: Integration SDM's / Neural Nets
+caption: Encodings and Machine Learning with Sparse Distributed Memories.
 description: >
    Experiments on neuroinspired computing embeddings integrated with Deep and Machine Learning
-date: '01-03-2018'
+date: '01-05-2019'
 image: 
   path: /assets/img/projects/stressgraph2.jpg
   srcset: 
@@ -12,19 +12,16 @@ image:
     960w:  /assets/img/projects/stressgraph2@0,5x.jpg
     480w:  /assets/img/projects/stressgraph2@0,25x.jpg
 links:
-  - title: Slides
-    url: https://drive.google.com/file/d/1C6AY7pZ6ctZsD6ef1cmJCxH1UT7q4R7m/view?usp=sharing
+  - title: Mini Paper
+    url: https://github.com/gilgameshjw/HDcomputing/blob/master/Doc/extendHDcomputing.pdf
+  - title: Code
+    url: https://github.com/gilgameshjw/HDComputing.jl
 sitemap: false
 ---
 
 Machine & Deep Learning and High Dimensional computing have very distinct qualities and advantages. 
 
-In my work, I am interested in comparisons and integration of the
- aforementioned technologies.
+In particular, encodings with sparse or dense vector leads to distincts performances and some time astonishing performances, like on [semeval2016](https://github.com/gilgameshjw/HDComputing.jl/blob/master/examples/demoSemevalNB.ipynb). 
 
-My work includes binary neural networks, binary embeddings and application of these 
-strategies onto various datasets.
-
-As an example,  in many cases, I have found that classification scores could be improved
-preprocessing the data with HD computing. 
+See for my work at constellation.ai and our paper for more details and results.
 

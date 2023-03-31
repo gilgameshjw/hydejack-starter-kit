@@ -21,5 +21,5 @@ links:
 featured:    false
 ---
 
-The project was stopped in 2018, mainly because of legal tensions with one partner.
+The project, detailed in the links above was stopped in 2018, mainly because of legal tensions with one partner.
 

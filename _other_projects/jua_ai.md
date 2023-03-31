@@ -10,7 +10,7 @@ image:
     480w:    /assets/img/past_projects/jua@0,25x.jpg
 caption:     Building weather model building own data sources (~40TB) and training deep learning (Fourier and Graph Neural Networks) algorithms. 
 description: >
-  Building weather model building own data sources (~40TB) and training deep learning (Fourier and Graph Neural Networks) algorithms. 
+  Building weather model building own data sources (~40TB) and training deep learning (Fourier and Graph Neural Networks) algorithms. We claim unseen resolutions: 1x1km global / 48 hours / 5 minute timesteps
 links:
   - title:   Jua Website
     url:     https://www.jua.ai/
@@ -25,9 +25,12 @@ Jua is introducing deep learning into the weather model market and applications:
 
 ### My Work
 
-* Literature review and models prototyping and testing (graph and Fourier Neural Operator NNets)
+* Literature review and models prototyping and testing (graph, Fourier Neural Operator NNets and GAN's)
 * Data engineering and modelling
 * Model training on distributed GPU's (~40 TB). 
 
-### Paper
-A publication where I am co-author is currently under review in American Meteorological Society.
+### Production
+Model is ran at unseen resolution: 1x1km global / 48 hours / 5 minute timesteps
+
+### Publication
+A publication where I am second author is currently under review in American Meteorological Society. 

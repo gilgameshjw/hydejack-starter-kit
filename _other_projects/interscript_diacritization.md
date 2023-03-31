@@ -10,7 +10,7 @@ image:
     480w:    /assets/img/past_projects/arabiccaligraphy@0,25x.jpg
 caption:     Diacritization in Arabic and Hebrew with Deep Learning productionised for interscript
 description: >
-  Several Problems 
+  Diacritization with Deep Learning in Arabic and Hebrew. 
 links:
   - title:  Arabic
     url:     https://www.interscript.org/blog/2021-08-03-diacritization-in-arabic-with-deep-learningusp=sharing

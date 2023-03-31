@@ -7,12 +7,13 @@ My past and current work is described with more details under the **Current and 
 
 ## Neuro Inspired Computing
 
-#### Deep Learning for Weather Predictions
+#### Generative Models Deep for various Business cases
 
 With JUA, we have adapted Fourier Neural Operators (FNO), Graph Neural Networks and Generative Adversarial Networks (GAN) to currently operate the most accurate precipitation weather model.
 
-I am currently working on porting the FNO architecture to text processing and enhancing it. 
+I am currently working on porting the FNO architecture to text processing. 
 
+For Interscript, I have built generative model leveraging transformer architecture for not only transliteration but also semi automatised code production and data generation.
 
 #### High Dimensional computing
 
@@ -24,14 +25,16 @@ I have worked on various technologies exploiting the benefits of the HD approach
 * graphs and rules encoding/modelling
 * Interplay HDC / Deep Learning
 
+This work has been applied to multiple business cases like text processing, patient profiles modelling as well as fuzzy GPS trajectory modelling and matching.
+
 
 ## Systems
 
 #### Conversational Agents
 
-Since 2016, I have worked on conversational agents, starting with my work in R&D for Constellation AI.
+Since 2016, I have worked on conversational agents, starting with my R&D work for Constellation AI.
 
-IVA was developed with Markus Thora and Denis Okyere as an end to end IOS app allowing speech interactions with a logic compressed into a brain using HD computing combined with a language model. 
+IVA was developed with Markus Thora and Denis Okyere as an end to end IO app allowing speech interactions with a logic compressed into a brain using HD computing combined with a language model. 
 
 With Humbaba I and II and my some of my work with Interscript, 
 I am building on the idea of software designed as "Union of conversational Agents". Such ideas are made more realistic by the newest language models (gpt's, ...).
