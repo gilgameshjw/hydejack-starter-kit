@@ -52,7 +52,7 @@ work:
     weather model predictions on the market."    
 
   - company: "Interscript" 
-    position: "Contractor"
+    position: "AI Engineer"
     #website: "https://piedpiper.com"
     startDate: "Sep 2021"
     endDate: "Jun 2022"
@@ -62,8 +62,6 @@ work:
     necessary to generate the transliteration rules being put into production via
     data generation and the training of transformer architectures. 
     The approach was presented in a small specialists conference."    
-
-
 
   - company: "Neurotrophic Labs" 
     position: "Co-Founder"
@@ -131,7 +129,7 @@ work:
     #website: "https://piedpiper.com"
     startDate: "Feb 2012"
     endDate: "May 2014"
-    summary: "Financial models validation and implementations on the C++ pricing libraries."  
+    summary: "At DB, I have worked on the validation of financial models and implementations on the C++ pricing libraries."  
 
   - company: "Institute for Theoretical Physics"
     position: "Postdoctoral Researcher"
@@ -227,6 +225,7 @@ skills:
   - name: "AI"
     level: "2.5/3"
     keywords:
+      - "Generative Models"
       - "Brain inspired Computing"
       - "Reinforcement Learning"
       - "Conversational Agent"
@@ -246,7 +245,8 @@ skills:
   - name: "DevOps"
     level: "2.0/3"
     keywords:
-      - "AWS, Linode, Azure"
+      - "AWS, Linode, Azure" 
+      - "docker, git"
       - "Bash, Web Protocols" 
 languages:
   - language: "French"

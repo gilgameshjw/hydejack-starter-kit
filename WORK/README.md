@@ -14,7 +14,7 @@ With JUA, we have adapted Fourier Neural Operators (FNO), Graph Neural Networks 
 I am currently working on porting the FNO architecture to text processing and enhancing it. 
 
 
-## High Dimensional computing
+#### High Dimensional computing
 
 Learning and computations can be accelerated using sparse binary vectors. 
 I have worked on various technologies exploiting the benefits of the HD approach:
