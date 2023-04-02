@@ -29,7 +29,7 @@ work:
     endDate: ""
     summary:  
       Consulting in data science for more than 30 entities, 
-      including well established companies and well founded startups. 
+      including well established companies and some of the most ambitious startups. 
       Some of the work is described below or in **Projects**.
 
         #* While main focus on the application and development of brain inspired technologies, 
@@ -56,22 +56,22 @@ work:
     #website: "https://piedpiper.com"
     startDate: "Sep 2021"
     endDate: "Jun 2022"
-    summary: "At Interscript, thanks to my contribution, transliteration can now be delivered with generative models.
+    summary: "At Interscript, I developed a solution to deliver transliteration with generative models.
     First, diacritization models were trained in arabic and hebrew, resp. reproducing and beating existing benchmarks.
     Next, I have designed a new approach to transliteration allowing language experts 
     to design the necessary complex transliteration rules. 
     Data and models are then built and trained via a semi automatised strategy that  
-    were presented to a conference of tranliteration experts."    
+    was presented on a conference to experts."    
 
   - company: "Neurotrophic Labs" 
     position: "Co-Founder"
     #website: "https://piedpiper.com"
     startDate: "Jun 2019"
     endDate: "Aug 2021"
-    summary: "With a MD, we have founded a US based company and developed an app allowing practitioner to easily model patient 
+    summary: "Together with a MD as a cofounder, we have developed an app for the US market allowing practitioner to easily model patient 
     states and diseases and retrieve statistical evidences in real time via fuzzy 
     search throughout the US healthcare dataset. 
-    The app focus on speed allows to run medical scenarii and test hypotheses in real time."    
+    The app's focus on speed allows running medical scenarios and test hypotheses in real time."    
 
 
   - company: "Plex AI" 
@@ -80,17 +80,17 @@ work:
     startDate: "April 2019"
     endDate: "Aug 2021"
     summary: "Plex AI vision: interaction with 
-    websites via language. My main contribution was the building of an iOS app, 
+    websites via language. My main contribution was building of an iOS app, 
     the agent, the design of a neuro inspired architecture to compress the conversational 
-    logics and to run successful demos to potential customers."    
+    logic and to run successful demos to potential customers."    
 
   - company: "MediaPlayers" 
     position: "Lead Data Scientist"
     #website: "https://piedpiper.com"
     startDate: "Feb 2020"
     endDate: "Dec 2020"
-    summary: "Mediaplayers needed advices with data science and their data strategy.
-    I have then built their data pipeline, processing ~1 billion of behavioural data within 3 hours daily."    
+    summary: "I was invited at Mediaplayers to develop their data strategy.
+    I built a data pipeline processing within 3 hours ~1 billion of daily behavioural data points."    
 
 
   - company: "Faxi (now kinto join)" 
@@ -98,8 +98,8 @@ work:
     #website: "https://piedpiper.com"
     startDate: "May 2019"
     endDate: "Mar 2020"
-    summary: "I have helped faxi with new GPS processing and carpooling recommendation algorithms.
-    Thanks to an app that I have built, communities can now easily visualise the carpoolings and their benefits for their community in term of $ and CO2 emissions."    
+    summary: "For faxi, I built new GPS processing and carpooling recommendation algorithms.
+    Thanks to an app that I created, communities can now easily visualise the carpoolings and their benefits in term of money saved and CO2 emissions."    
 
 
   - company: "Constellation AI"
@@ -107,7 +107,7 @@ work:
     #website: "https://piedpiper.com"
     startDate: "Feb 2018"
     endDate: "Feb 2019"
-    summary: "I have join the company to build new language models exploiting advantages of 
+    summary: "I joined the company to build new language models using advantages of 
     sparse representations.
     After 3 months, I developed a working model to encode and compress text that became the semantic engine after 6 months.
     This model was extended and tested on several business cases. 
@@ -118,17 +118,17 @@ work:
     #website: "https://piedpiper.com"
     startDate: "Aug 2015"
     endDate: "Jan 2018"
-    summary: "TaxiQ was a collaborative system helping black cab drivers to navigate within the 
+    summary: "At TaxiQ we created an app based on collaborative system helping cab drivers in UK to navigate within the 
     city by solving the problem of evaluating the latest waiting times on the taxi ranks. 
-    With a small budget, I have acted as a CEO in interim, putting a team of up to 8 people to build a MVP (web apps). 
-    My work included R&D, pitching, business plans, ..."
+    As a CEO, I have managed to put together a team of up to 8 people and to build a MVP (web apps) with a small budget. 
+    Along with R&D and development, I developed the business plan and was pitching to potential investors and competitions."
 
   - company: "Deutsche Bank"
     position: "Model Validation"
     #website: "https://piedpiper.com"
     startDate: "Feb 2012"
     endDate: "May 2014"
-    summary: "At DB, I have worked on the validation of financial models and implementations on the C++ pricing libraries."  
+    summary: "At DB, I worked on the validation of financial models and implementations on the C++ pricing libraries."  
 
   - company: "Institute for Theoretical Physics"
     position: "Postdoctoral Researcher"

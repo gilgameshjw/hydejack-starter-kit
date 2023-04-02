@@ -53,7 +53,7 @@ menu:
     url:               /ABOUTME/
   - title:             CV #Résumé
     url:               /resume/
-  - title:             My Work
+  - title:             My Expertise
     url:               /WORK/
   - title:             Current and Past Projects
     url:               /other-projects/

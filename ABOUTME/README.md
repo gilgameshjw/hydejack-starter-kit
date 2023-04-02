@@ -1,10 +1,13 @@
 # About Me
 
-Throughout my life, I have been put in motion by intellectual interests and setting myself big challenges.
+Throughout my life, I have been always driven by intellectual challenges.
 
-So I became a researcher in Particle Physics, where I could contribute to expand our knowledge of Nature. My journey is now continuing in the "real world", where I am using my skills and brain to solve interesting problems.
+I became a researcher in Particle Physics, where I could contribute to expanding our knowledge of Nature. After finishing my Postdoctoral studies, I became interested in applying the knowledge I had accumulated 
+into real world problems.
 
-Along this new journey that started 10 years ago, I have been mainly interested in Neuro-inspired architectures like HD computing and Deep Learning and their applications as well as in the building of complex solutions like: Conversational Agents, Collaborative Systems, Retrieval Engines, Automatised Software Generation and Generative Models.
+Along this new journey that started 10 years ago, I have been mainly interested in Neuro-inspired architectures like Deep Learning and HD computing and their applications as well as in building complex solutions like: Conversational Agents, Collaborative Systems, Retrieval Engines, Automatised Software Generation and Generative Models.
+
+In the past years, I was working in different setups, interacting in well established and fast growing companies as well as leading own startups among other as CEO. This is a process in which I could develop interpersonal and communication skills.
 
 
 ### Highlights: 
