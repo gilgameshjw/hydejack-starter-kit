@@ -5,13 +5,15 @@ Working on these topics, unique software solutions have been created or latest e
 
 My past and current work is described with more details under the **Current and Past Work** section of the website.
 
-## Neuro Inspired Computing
+## Neuro Inspired Computing and Deep Learning
 
-#### Generative Models Deep for various Business cases
+#### Applications of Generative Models 
 
-With JUA, we have adapted Fourier Neural Operators (FNO), Graph Neural Networks and Generative Adversarial Networks (GAN) to currently operate the most accurate precipitation weather model.
+I have  brought generative models to production for weather predictions and transliteration:
 
-I am currently working on porting the FNO architecture to text processing. 
+With JUA, we have adapted Fourier Neural Operators (FNO), Graph Neural Networks and Generative Adversarial Networks (GAN) to help JUA operate the currently most accurate precipitation weather model.
+
+I am also currently working on porting the FNO architecture to text processing. 
 
 For Interscript, I have built generative model leveraging transformer architecture for not only transliteration but also semi automatised code production and data generation.
 
@@ -27,8 +29,12 @@ I have worked on various technologies exploiting the benefits of the HD approach
 
 This work has been applied to multiple business cases like text processing, patient profiles modelling as well as fuzzy GPS trajectory modelling and matching.
 
+#### Applications of Language Models
+
+I am interested in the theory, training, usage and integration of language models into my workflow as well as some of the systems described below.
 
 ## Systems
+
 
 #### Conversational Agents
 

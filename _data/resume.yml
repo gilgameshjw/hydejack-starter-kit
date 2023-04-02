@@ -56,23 +56,22 @@ work:
     #website: "https://piedpiper.com"
     startDate: "Sep 2021"
     endDate: "Jun 2022"
-    summary: "Interscript needed to use deep learning for diacritization and transliteration.
-    Diacritization models were trained in arabic and hebrew, resp. reproducing and beating existing benchmarks.
-    A new approach to transliteration allows now language experts to design the complex business rules 
-    necessary to generate the transliteration rules being put into production via
-    data generation and the training of transformer architectures. 
-    The approach was presented in a small specialists conference."    
+    summary: "At Interscript, thanks to my contribution, transliteration can now be delivered with generative models.
+    First, diacritization models were trained in arabic and hebrew, resp. reproducing and beating existing benchmarks.
+    Next, I have designed a new approach to transliteration allowing language experts 
+    to design the necessary complex transliteration rules. 
+    Data and models are then built and trained via a semi automatised strategy that  
+    were presented to a conference of tranliteration experts."    
 
   - company: "Neurotrophic Labs" 
     position: "Co-Founder"
     #website: "https://piedpiper.com"
     startDate: "Jun 2019"
     endDate: "Aug 2021"
-    summary: "With a Californian MD, 
-    we have developed an app allowing practitioner to easily model patient 
+    summary: "With a MD, we have founded a US based company and developed an app allowing practitioner to easily model patient 
     states and diseases and retrieve statistical evidences in real time via fuzzy 
     search throughout the US healthcare dataset. 
-    The app focus on speed allows to run scenarii and test hypotheses."    
+    The app focus on speed allows to run medical scenarii and test hypotheses in real time."    
 
 
   - company: "Plex AI" 
@@ -80,10 +79,10 @@ work:
     #website: "https://piedpiper.com"
     startDate: "April 2019"
     endDate: "Aug 2021"
-    summary: "Markus and Dennis had a vision for the future: one will soon interact with 
-    websites via language. My main contribution was the building of an IOS app, 
-    the agent and its brains
-    and to run successful demos to potential customers."    
+    summary: "Plex AI vision: interaction with 
+    websites via language. My main contribution was the building of an iOS app, 
+    the agent, the design of a neuro inspired architecture to compress the conversational 
+    logics and to run successful demos to potential customers."    
 
   - company: "MediaPlayers" 
     position: "Lead Data Scientist"
@@ -91,7 +90,7 @@ work:
     startDate: "Feb 2020"
     endDate: "Dec 2020"
     summary: "Mediaplayers needed advices with data science and their data strategy.
-    I have then built their data pipeline, processing .5 billion of behavioural data within 3 hours daily."    
+    I have then built their data pipeline, processing ~1 billion of behavioural data within 3 hours daily."    
 
 
   - company: "Faxi (now kinto join)" 
