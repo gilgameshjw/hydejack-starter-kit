@@ -1,7 +1,7 @@
 # Work & Interests
 
 During my career, I have worked extensively on the topics below, on which I have developed as an expert.
-Working on these topics, unique software solutions have been created or latest existing benchmarks have been reproduced and beaten.
+Working on these particular topics, unique software solutions were created or latest existing benchmarks were reproduced and beaten.
 
 My past and current work is described with more details under the **Current and Past Work** section of the website.
 
@@ -9,25 +9,25 @@ My past and current work is described with more details under the **Current and 
 
 #### Applications of Generative Models 
 
-I have  brought generative models to production for weather predictions and transliteration:
+I brought generative models to production for weather predictions and transliteration:
 
-With JUA, we have adapted Fourier Neural Operators (FNO), Graph Neural Networks and Generative Adversarial Networks (GAN) to help JUA operate the currently most accurate precipitation weather model.
+With JUA, we adapted Fourier Neural Operators (FNO), Graph Neural Networks and Generative Adversarial Networks (GAN) to help JUA operate the currently most accurate precipitation weather model.
 
 I am also currently working on porting the FNO architecture to text processing. 
 
-For Interscript, I have built generative model leveraging transformer architecture for not only transliteration but also semi automatised code production and data generation.
+For Interscript, I built generative model leveraging transformer architecture for not only transliteration but also semi automatised code production and data generation.
 
 #### High Dimensional computing
 
 Learning and computations can be accelerated using sparse binary vectors. 
-I have worked on various technologies exploiting the benefits of the HD approach:
+I worked on various technologies exploiting the benefits of the HD approach:
 
 * combine semantic vectors with symbolic algebra 
 * simpler operations mean compression and more efficient compute
 * graphs and rules encoding/modelling
 * Interplay HDC / Deep Learning
 
-This work has been applied to multiple business cases like text processing, patient profiles modelling as well as fuzzy GPS trajectory modelling and matching.
+This work was applied to multiple business cases like text processing, patient profiles modelling as well as fuzzy GPS trajectory modelling and matching.
 
 #### Applications of Language Models
 
@@ -47,7 +47,7 @@ I am building on the idea of software designed as "Union of conversational Agent
 
 Aside of the fun and elegant design, there are the need to allow 
 people with little experience in software engineering to design software
-and the need to design smart system to allow for an interesting and smart interaction...
+and the need to design smart system to allow for an interesting and smart interaction.
 
 My work consists in the design of:
 * conversational interfaces
@@ -58,7 +58,7 @@ My work consists in the design of:
 #### Collaborative Systems
 
 TaxiQ is an app developed for giving London's black cab drivers a real time overview over the taxi ranks.
-I have also helped faxi (now kinto join) with recommendations, GPS processing algorithms and community evaluations via an app. 
+I also helped faxi (now kinto join) with recommendations, GPS processing algorithms and community evaluations via an app. 
 highlights are IMO:
 
 * optimisation and behavioural simulations
@@ -68,4 +68,4 @@ highlights are IMO:
 
 #### Fuzzy retrieval
 
-High dimensional computing and encoding has been used to model and retrieve matching GPS trajectories, text snippet and medical data.
+High dimensional computing and encoding was used to model and retrieve matching GPS trajectories, text snippet and medical data.
