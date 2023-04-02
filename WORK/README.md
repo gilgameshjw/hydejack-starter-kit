@@ -1,9 +1,9 @@
 # Work & Interests
 
-During my career, I have worked extensively on the topics below, on which I have developed as an expert.
-Working on these particular topics, unique software solutions were created or latest existing benchmarks were reproduced and beaten.
+During my career I've worked extensively on the topics below amd developed a thorough expertise in these areas.
+Within each area I developed unique software solutions that riched or surpassed the latest existing benchmarks.
 
-My past and current work is described with more details under the **Current and Past Work** section of the website.
+My past and current workprojects are described in more details in the **Current and Past Work** section of the website.
 
 ## Neuro Inspired Computing and Deep Learning
 
@@ -27,7 +27,7 @@ I worked on various technologies exploiting the benefits of the HD approach:
 * graphs and rules encoding/modelling
 * Interplay HDC / Deep Learning
 
-This work was applied to multiple business cases like text processing, patient profiles modelling as well as fuzzy GPS trajectory modelling and matching.
+This work was applied in multiple business cases like text processing, patient profiles modelling as well as fuzzy GPS trajectory modelling and matching.
 
 #### Applications of Language Models
 
@@ -38,18 +38,17 @@ I am interested in the theory, training, usage and integration of language model
 
 #### Conversational Agents
 
-Since 2016, I have worked on conversational agents, starting with my R&D work for Constellation AI.
+Since 2016 I've been working on conversational agents, starting with my R&D work for Constellation AI.
 
 IVA was developed with Markus Thora and Denis Okyere as an end to end IO app allowing speech interactions with a logic compressed into a brain using HD computing combined with a language model. 
 
-With Humbaba I and II and my some of my work with Interscript, 
-I am building on the idea of software designed as "Union of conversational Agents". Such ideas are made more realistic by the newest language models (gpt's, ...).
+With the Humbaba projects and some of my work with Interscript, 
+I've been working on the idea of software designed as a "Union of conversational Agents". Ideas of this kind are becoming more realistic with the development of the newest language models (gpt's, ...).
 
-Aside of the fun and elegant design, there are the need to allow 
-people with little experience in software engineering to design software
-and the need to design smart system to allow for an interesting and smart interaction.
+The aforementionned approach has the potential to allow for 
+people with little experience in software engineering to generate complex software as well as the design of truly smart systems.
 
-My work consists in the design of:
+I am working on:
 * conversational interfaces
 * graphical description of software (with simple technologies like lucidchart, etc...) and its automatised parsing and building
 * software design automation combining the above ideas with advanced language models
@@ -57,7 +56,7 @@ My work consists in the design of:
 
 #### Collaborative Systems
 
-TaxiQ is an app developed for giving London's black cab drivers a real time overview over the taxi ranks.
+TaxiQ is an app developed to give London's cab drivers a real time overview of the taxi ranks.
 I also helped faxi (now kinto join) with recommendations, GPS processing algorithms and community evaluations via an app. 
 highlights are IMO:
 
