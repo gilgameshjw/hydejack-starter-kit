@@ -13,7 +13,7 @@ I brought generative models to production for weather predictions and transliter
 
 With JUA, we adapted Fourier Neural Operators (FNO), Graph Neural Networks and Generative Adversarial Networks (GAN) to help JUA operate the currently most accurate precipitation weather model.
 
-I am also currently working on porting the FNO architecture to text processing. 
+I am also currently working on porting the FNO architecture to text processing, a practical investigation on the possibility to process language as a continuous process. 
 
 For Interscript, I built generative model leveraging transformer architecture for not only transliteration but also semi automatised code production and data generation.
 
@@ -45,8 +45,8 @@ IVA was developed with Markus Thora and Denis Okyere as an end to end IO app all
 With the Humbaba projects and some of my work with Interscript, 
 I've been working on the idea of software designed as a "Union of conversational Agents". Ideas of this kind are becoming more realistic with the development of the newest language models (gpt's, ...).
 
-The aforementionned approach has the potential to allow for 
-people with little experience in software engineering to generate complex software as well as the design of truly smart systems.
+The aforementionned approach has can potentially allow 
+people with a little experience in software engineering to generate complex software as well as the design of truly smart systems.
 
 I am working on:
 * conversational interfaces
